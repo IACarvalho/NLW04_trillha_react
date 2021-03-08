@@ -3,7 +3,7 @@
 
 ![demo](/public/demo.png)
 
-![demo](/public/demoGif.gif)
+![demo gif](/public/demoGif.gif)
 
 
 
@@ -27,8 +27,9 @@ $ yarn install
 - Acesse em seu navegador preferido
 [http://localhost:3000](http://localhost:3000)
 
-## Futuros implementos
+## Futuras implementações
  - Implementar tela de login usando github (oauth)
  - Implementar um sistemas de ranking
+    - Com o sistema de rankinhs será nescessário um uma forma de navegar entre as págians da aplicação, uma navBar
  - Implementar um tema dark
-    	- Com o sistema de rankinhs será nescessário um uma forma de navegar entre as págians da aplicação
+ - Criar uma funcionalidade para compartilhar conquistas nas redes sociais
